@@ -135,6 +135,8 @@ The dashboard provides:
   Hostility participation ratios.
   Type and cause of deaths.
   KPI for the most affected region.
+  <img width="1307" height="735" alt="{8C5B6E6C-6170-40E8-B2B8-1859B1B9FAC7}" src="https://github.com/user-attachments/assets/2f75750f-6ebc-4b9a-aaa8-bb7ac56d005d" />
+
 
 ## 🎬 Part 2: Manim Animation
 ### Visualizing Preferential Attachment in Scale-Free Networks
@@ -189,6 +191,7 @@ manim -pql PA2.py PreferentialAttachment
 5) Legend: Highlights meaning of node colors.
 6) Degree Distribution Plot: Displayed in log-log scale, showing power-law behavior.
 7) Conclusion: Animation ends with a summary and “Thank You” note.
+<img width="1919" height="908" alt="{947570CF-FB84-4890-898A-89C98ED76E98}" src="https://github.com/user-attachments/assets/7f5c361b-bea4-4a00-90a0-203fd808d3e9" />
 
 #### 💡 Concept Summary
 Preferential attachment explains how networks self-organize into scale-free structures.
@@ -204,6 +207,7 @@ Degree distribution follows a power law, visible as a straight line on a log-log
 #### 🧾 References & Acknowledgments
 - **Dataset:** B’Tselem – The Israeli Information Center for Human Rights in the Occupied Territories
 - **Tools Used:** Power BI, Python (Manim), FFmpeg, Anaconda
+
 
 
 
