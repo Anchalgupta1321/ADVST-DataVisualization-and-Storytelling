@@ -197,17 +197,16 @@ Degree distribution follows a power law, visible as a straight line on a log-log
 
 #### 📂 Repository Structure
 ADVST_Assignment_01/
-│
 ├── PowerBI/
 │   ├── Israeli_civilians_killed_by_palestinians.xlsx
 │   ├── Israeli_forces_killed_by_palestinians.xlsx
 │   ├── Palestinians_killed_by_israeli_forces.xlsx
 │   ├── Palestinians_killed_by_israeli_civilians.xlsx
-│   ├── PowerBI_Report.pbix
+│   └── PowerBI_Report.pbix
 │
 ├── Manim/
 │   ├── PA2.py
-│   ├── output_video.mp4
+│   └── output_video.mp4
 │
 └── README.md
 
@@ -220,5 +219,6 @@ ADVST_Assignment_01/
 #### 🧾 References & Acknowledgments
 - **Dataset:** B’Tselem – The Israeli Information Center for Human Rights in the Occupied Territories
 - **Tools Used:** Power BI, Python (Manim), FFmpeg, Anaconda
+
 
 
