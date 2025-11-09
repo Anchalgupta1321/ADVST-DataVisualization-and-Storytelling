@@ -195,21 +195,6 @@ Preferential attachment explains how networks self-organize into scale-free stru
 A few nodes dominate connectivity — similar to how influencers dominate social media.
 Degree distribution follows a power law, visible as a straight line on a log-log plot.
 
-#### 📂 Repository Structure
-ADVST_Assignment_01/
-├── PowerBI/
-│   ├── Israeli_civilians_killed_by_palestinians.xlsx
-│   ├── Israeli_forces_killed_by_palestinians.xlsx
-│   ├── Palestinians_killed_by_israeli_forces.xlsx
-│   ├── Palestinians_killed_by_israeli_civilians.xlsx
-│   └── PowerBI_Report.pbix
-│
-├── Manim/
-│   ├── PA2.py
-│   └── output_video.mp4
-│
-└── README.md
-
 #### 🧑‍💻 Author Information
 - **Name:** Anchal Gupta
 - **Course:** Advanced Visualization and Storytelling (ADVST)
@@ -219,6 +204,7 @@ ADVST_Assignment_01/
 #### 🧾 References & Acknowledgments
 - **Dataset:** B’Tselem – The Israeli Information Center for Human Rights in the Occupied Territories
 - **Tools Used:** Power BI, Python (Manim), FFmpeg, Anaconda
+
 
 
 
