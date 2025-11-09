@@ -159,24 +159,18 @@ Examples include:
 
 #### ⚙️ Environment Setup (Using Anaconda) 
 '''bash'''
-###### Step 1: Open Anaconda Prompt (Run as Administrator)
-
-###### Step 2: Create a new environment
+###### **Step 1:** Open Anaconda Prompt (Run as Administrator)
+###### **Step 2:** Create a new environment
 conda create -n manim-env python=3.10 -y
-
-###### Step 3: Activate environment
+###### **Step 3:** Activate environment
 conda activate manim-env
-
-###### Step 4: Install Manim
+###### **Step 4:** Install Manim
 conda install -c conda-forge manim
-
-###### Step 5: Verify installation
+###### **Step 5:** Verify installation
 manim --version
-
-###### Step 6: Install FFmpeg for video rendering
+###### **Step 6:** Install FFmpeg for video rendering
 conda install -c conda-forge ffmpeg
-
-###### Step 7: Verify FFmpeg installation
+###### **Step 7:** Verify FFmpeg installation
 ffmpeg -version
 
 #### 🧾 Running the Animation
@@ -226,4 +220,5 @@ ADVST_Assignment_01/
 #### 🧾 References & Acknowledgments
 - **Dataset:** B’Tselem – The Israeli Information Center for Human Rights in the Occupied Territories
 - **Tools Used:** Power BI, Python (Manim), FFmpeg, Anaconda
+
 
